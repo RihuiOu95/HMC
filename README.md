@@ -19,7 +19,7 @@ Applied the package to simulated data and compare it with two other methods in p
 
 ## real data
 Applied the package to real data downloaded from
-\url{https://www.kaggle.com/johnolafenwa/us-census-data}
+https://www.kaggle.com/johnolafenwa/us-census-data
  and compared it with two other methods in prediction
 
 ## report
